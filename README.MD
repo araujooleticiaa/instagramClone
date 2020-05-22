@@ -2,7 +2,7 @@
 
 <hr/>
 
-![logo](logo.svg)
+![logo](apresentacao.gif)
 
 ## ⚙️ Tecnologias utilizadas:
 
